@@ -257,7 +257,16 @@
 					"onselectstart",
 					"onmousewheel",
 					"ononline"
-				]
+				],
+				"formatter": {
+					"quoteStyle": "single",
+					"lineWidth": 120,
+					"indentStyle": "tab",
+					"lineEnding": "lf",
+					"semicolons": "asNeeded",
+					"trailingCommas": "all",
+					"arrowParentheses": "asNeeded"
+				}
 			},
 			"linter": {
 				"rules": {
