@@ -5,7 +5,7 @@ function App() {
 				React-Rocket-template
 			</h1>
 			<h2 className="text-2xl mb-1 font-medium text-slate-300 backdrop-blur-sm rounded-xl">
-				Powered by Bun-1.1, Biome-1.9, Vite-6, Swc, React-18, Tailwind-4,
+				Powered by Bun-1.1, Biome-1.9, Vite-6, Swc, React-19, Tailwind-4,
 				TypeScript-5.6
 			</h2>
 			<p className="text-2xl text-slate-400 backdrop-blur-sm rounded-xl">
