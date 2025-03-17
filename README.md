@@ -14,7 +14,7 @@
 
 - Bun 1.1
 - Vite 6
-- React 18
+- React 19
 - TypeScript 5.6
 - Tailwind CSS 4
 - Biome 1.9
